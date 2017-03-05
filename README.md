@@ -3,6 +3,7 @@ CuHatching is an accelerator program happening at Carleton University to help so
 Our website ended up winning best website in the competition which won us each a $1000 gift card to Amazon Web Services.
 
 Team members:
+
               -Tri Do(https://github.com/TheOnionSeed)
               -Simon Krol(https://github.com/simonkrol)
               -Guilor Fernandez
